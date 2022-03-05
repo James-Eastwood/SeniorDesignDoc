@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+title: Senior Design Project
+logo: assets/img/logo.png
+show_downloads: true
+description: Colin, David, and James' Senior Design Project | Merrimack College 2022
+
+collections:
+  pages:
+    output: true
