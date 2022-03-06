@@ -7,7 +7,7 @@ in an actual manual car. We decided to keep it simple, and implement a sequentia
 shifter into our game. 
 
 <div style="text-align: center">
-<img src="/SeniorDesignProject/assets/img/doc/Shifter.jpg" width="50%">
+<img src="/SeniorDesignDoc/assets/img/doc/Shifter.jpg" width="50%">
 </div>
 
 To achieve this, we are using an arcade joystick with some 3D-printed modifications.
@@ -53,12 +53,12 @@ Now we need to hook up the arcade joystick to the microcontroller and read its v
 to know when it is pressed. We can do this using a simple switch circuit.
 
 <div style="text-align: center">
-<img src="/SeniorDesignProject/assets/img/doc/diagrams/CircuitDiagrams-1.svg" width="75%">
+<img src="/SeniorDesignDoc/assets/img/doc/diagrams/CircuitDiagrams-1.svg" width="75%">
 </div>
 
 We rinse and repeat this for the up and down buttons of both joysticks, and we end up with
 something like this schematic.
 
 <div style="text-align: center">
-<img src="/SeniorDesignProject/assets/img/doc/diagrams/CircuitDiagrams-2.svg" width="75%">
+<img src="/SeniorDesignDoc/assets/img/doc/diagrams/CircuitDiagrams-2.svg" width="75%">
 </div>
