@@ -29,7 +29,7 @@ looks like along with the appropriate hexcode in both 565 and RGB format. If the
 color to the clipboard. Shown below is a little preview of what this looks like:
 
 <div style="text-align: center">
-<img src="/SeniorDesignProject/assets/img/doc/565colorFinder.png" width="75%">
+<img src="/SeniorDesignDoc/assets/img/doc/565colorFinder.png" width="75%">
 </div>
 <br>
 

@@ -78,12 +78,12 @@ Just ensure the path to the file is correct (Please make sure they are less than
 and adjust the scale by changing the width percentage.
 ```html
 <div style="text-align: center">
-<img src="/SeniorDesignProject/assets/img/profile/elmo.jpg" width="50%">
+<img src="/SeniorDesignDoc/assets/img/profile/elmo.jpg" width="50%">
 </div>
 ```
 Result:
 <div style="text-align: center">
-<img src="/SeniorDesignProject/assets/img/profile/elmo.jpg" width="50%">
+<img src="/SeniorDesignDoc/assets/img/profile/elmo.jpg" width="50%">
 </div>
 
 ### Links

@@ -31,14 +31,14 @@ because I am able to quickly render the outer rings of the design, so we don't n
 account for them when we go to render pixel-by-pixel.
 
 <div style="text-align: center">
-<img src="/SeniorDesignProject/assets/img/doc/preview-speedometer.png" width="33%">
-<img src="/SeniorDesignProject/assets/img/doc/speedometer_to_compile.png" width="33%">
+<img src="/SeniorDesignDoc/assets/img/doc/preview-speedometer.png" width="33%">
+<img src="/SeniorDesignDoc/assets/img/doc/speedometer_to_compile.png" width="33%">
 <br><em>The Render of the speedometer verses the reference image we will use</em>
 </div>
 
 <div style="text-align: center">
-<img src="/SeniorDesignProject/assets/img/doc/preview-tachometer.png" width="33%">
-<img src="/SeniorDesignProject/assets/img/doc/tachometer_to_compile.png" width="33%">
+<img src="/SeniorDesignDoc/assets/img/doc/preview-tachometer.png" width="33%">
+<img src="/SeniorDesignDoc/assets/img/doc/tachometer_to_compile.png" width="33%">
 <br><em>The Render of the tachometer verses the reference image we will use</em>
 </div>
 <br>
@@ -172,7 +172,7 @@ drawPixel(pCurrentPixel->x + X_OFFSET,
 
 If we were to generate an image solely based on this data, we'd get something like this:
 <div style="text-align: center">
-<img src="/SeniorDesignProject/assets/img/doc/headerFilePreview.png" width="50%">
+<img src="/SeniorDesignDoc/assets/img/doc/headerFilePreview.png" width="50%">
 </div>
 
 However, when we combine that with the work done by our microcontroller, we achieve our

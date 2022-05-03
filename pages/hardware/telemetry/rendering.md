@@ -45,8 +45,8 @@ re-rendering things that don't need to be every frame.
 
 I am going for a classic dashboard type speedometer and tachometer.
 <div style="text-align: center">
-<img src="/SeniorDesignProject/assets/img/doc/preview-tachometer.png" width="33%">
-<img src="/SeniorDesignProject/assets/img/doc/preview-speedometer.png" width="33%">
+<img src="/SeniorDesignDoc/assets/img/doc/preview-tachometer.png" width="33%">
+<img src="/SeniorDesignDoc/assets/img/doc/preview-speedometer.png" width="33%">
 </div>
 <br>
 
@@ -142,7 +142,7 @@ float convertValueToRadians(float value)
 
 The following diagram shows the math:
 <div style="text-align: center">
-<img src="/SeniorDesignProject/assets/img/doc/diagrams/BlockDiagrams-1.svg">
+<img src="/SeniorDesignDoc/assets/img/doc/diagrams/BlockDiagrams-1.svg">
 </div>
 
 Now, we convert our findings to code.
@@ -267,8 +267,8 @@ achieve this?
 
 Recall our reference images.
 <div style="text-align: center">
-<img src="/SeniorDesignProject/assets/img/doc/preview-tachometer.png" width="33%">
-<img src="/SeniorDesignProject/assets/img/doc/preview-speedometer.png" width="33%">
+<img src="/SeniorDesignDoc/assets/img/doc/preview-tachometer.png" width="33%">
+<img src="/SeniorDesignDoc/assets/img/doc/preview-speedometer.png" width="33%">
 </div>
 <br>
 

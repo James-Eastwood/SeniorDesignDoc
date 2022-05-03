@@ -30,7 +30,7 @@ image. From there, we can even blacklist some specific pixels as well. Here is a
 of that special image and the blacklisted pixels!
 
 <div style="text-align: center">
-<img src="/SeniorDesignProject/assets/img/doc/telemetry-ref.png" width="50%">
+<img src="/SeniorDesignDoc/assets/img/doc/telemetry-ref.png" width="50%">
 </div>
 
 ```py
@@ -99,7 +99,7 @@ accordingly.
 
 Let's check our work by reading the binary file!
 <div style="text-align: center">
-<img src="/SeniorDesignProject/assets/img/doc/binaryData.jpg" width="75%">
+<img src="/SeniorDesignDoc/assets/img/doc/binaryData.jpg" width="75%">
 </div>
 Looking at `0xC9004600FFFF` (The first entry), we can see that we are storing the color
 `0xFFFF` (White) to the location `0x00C9, 0x0046`. This looks like a success!

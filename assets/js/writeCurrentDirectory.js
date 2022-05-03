@@ -1,14 +1,14 @@
 currentPath = window.location.pathname;
 finalString = ''
 
-if(currentPath != '/SeniorDesignProject/index.html' && currentPath != '/SeniorDesignProject/pages.html')
+if(currentPath != '/SeniorDesignDoc/index.html' && currentPath != '/SeniorDesignDoc/pages.html')
 {
     currentPath = currentPath.replace('.html', '')
     pathArray = currentPath.split('/');
     
     for(i = 2; i < pathArray.length; i++)
     {
-        pathToFile = '/SeniorDesignProject'
+        pathToFile = '/SeniorDesignDoc'
         startingIndex = currentPath.search(pathArray[i]);
         pathToFile = currentPath.slice(0, startingIndex + pathArray[i].length)
         pathToFile += '.html'
